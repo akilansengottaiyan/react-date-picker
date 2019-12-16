@@ -5,11 +5,8 @@ Object.defineProperty(exports, "__esModule", {
 });
 exports["default"] = void 0;
 
-require("react-calendar/dist/Calendar.css");
-
 var _DatePicker = _interopRequireDefault(require("./DatePicker"));
 
-require("./DatePicker.css");
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { "default": obj }; }
 
